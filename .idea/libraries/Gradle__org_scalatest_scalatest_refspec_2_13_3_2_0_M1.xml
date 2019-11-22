@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalatest:scalatest-refspec_2.13:3.2.0-M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest-refspec_2.13/3.2.0-M1/79a9eab8b36186ec5806e8ae63cc8b0087c9800e/scalatest-refspec_2.13-3.2.0-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest-refspec_2.13/3.2.0-M1/88df583fea1971ea74a6750480c01d0c10fe6a73/scalatest-refspec_2.13-3.2.0-M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

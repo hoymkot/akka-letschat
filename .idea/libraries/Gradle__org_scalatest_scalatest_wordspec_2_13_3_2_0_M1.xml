@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalatest:scalatest-wordspec_2.13:3.2.0-M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest-wordspec_2.13/3.2.0-M1/b1d61253776379c3c9764850175b477ed502f372/scalatest-wordspec_2.13-3.2.0-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest-wordspec_2.13/3.2.0-M1/ab52a4edebf37852c18232d936a6af49f34fbb20/scalatest-wordspec_2.13-3.2.0-M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

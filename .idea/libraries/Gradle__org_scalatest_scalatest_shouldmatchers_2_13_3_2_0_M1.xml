@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalatest:scalatest-shouldmatchers_2.13:3.2.0-M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest-shouldmatchers_2.13/3.2.0-M1/9d6c8fa8bb24e4523a8d72089d558d7c23a188d7/scalatest-shouldmatchers_2.13-3.2.0-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest-shouldmatchers_2.13/3.2.0-M1/e2e6d93b756394cb4fa14cdfb00e9e833e50cdf6/scalatest-shouldmatchers_2.13-3.2.0-M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
